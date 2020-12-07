@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-description: Kamran's Presentations in Data Analytics
+description: Jose's Presentations in Data Analytics
 ---
 
 
