@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Kamran Arshad
-author : Kamran Arshad
-  name : 
-  email : karshad2019@gmail.com
-  github : karshad33
+title : Jose Garcia
+author : Jose Garcia
+  name : Jose Garcia
+  email : garciaguerra.jl@gmail.com
+  github : jgarcia2411
   twitter : karshad33
   feedburner : nil
 
-production_url : https://karshad33.github.io/
+production_url : https://jgarcia2411.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
