@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Analytics ToolKit
-description: Ben Harvey's assignments
+description: Jose Garcia's assignments
 ---
 
 <div class="navbar">
