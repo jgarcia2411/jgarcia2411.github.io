@@ -22,7 +22,7 @@ description: Jose Garcia is...
 
 
 #### <a name="cvandresume"></a>cv and resume
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Kamran_Arshad_Resume_May2020_Dl.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jose Garcia.pdf)
 
 ---
 
