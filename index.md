@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Kamran Arshad
-description: Kamran Arshad
+title: Jose Garcia
+description: Jose Garcia
 keywords: statistics, data analytics
 ---
 
@@ -9,8 +9,8 @@ keywords: statistics, data analytics
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Kamran_Arshad_Resume_May2020_Dl.pdf">cv</a></li>
-          <li><a href="https://github.com/karshad33">github</a></li>
-          <li><a href="https://www.linkedin.com/in/karshad33/">LinkedIn</a></li>
+          <li><a href="https://github.com/jgarcia2411">github</a></li>
+          <li><a href="https://www.linkedin.com/in/jose-garc/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
