@@ -21,24 +21,24 @@ description: Course Assignments
 
 ### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="Just Enough for Spark (JEFS) and Databricks"></a>Just Enough for Spark (JEFS) and Databricks
-* [Assignment 1]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+##### <a name="Machine Learning Deployment in Databricks"></a>Machine Learning Deployment in Databricks
+* [Assignment 1]({{ BASE_PATH }}/assets/ML2-Capstone-Project.dbc)
 
 
 
 ####  <a name="Assignment2"></a>Assignment2
 ##### <a name="ML with Spark and Scalable NLP"></a>ML with Spark and Scalable NLP
-* [Assignment 2]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+* [Assignment 2]({{ BASE_PATH }}/assets/NLP 05 - Classification.dbc)
 
 
 
-####  <a name="Assignment2"></a>Assignment3
-##### <a name="Deep Learning and Reinforcement Learning "></a>Deep Learning and Reinforcement Learning 
-* [Assignment 3]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+####  <a name="Assignment3"></a>Assignment3
+##### <a name="Machine Learning and MLFlow Databricks"></a>Machine Learning and MLFlow Databricks 
+* [Assignment 3]({{ BASE_PATH }}/assets/ML 14 - Capstone Project.dbc)
 
 
-####  <a name="Assignment2"></a>Assignment4
-##### <a name=" Tuning and Streaming"></a>Tuning and Streaming
+####  <a name="Assignment4"></a>Assignment4
+##### <a name=" Deep Learning"></a>Deep Learning
 * [Assignment 4]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
