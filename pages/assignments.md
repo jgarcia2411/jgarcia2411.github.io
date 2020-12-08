@@ -12,7 +12,6 @@ description: Course Assignments
             <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
             <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ProjectProposal">Project Proposal</a></li>
             <li><a href="#FinalProject">Final Project</a></li>
         </ul>
     </div>
@@ -40,11 +39,6 @@ description: Course Assignments
 ####  <a name="Assignment4"></a>Assignment4
 ##### <a name=" Deep Learning"></a>Deep Learning
 * [Assignment 4]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
-
-
-
-####  <a name="Project Proposal"></a>Project Proposal
-* [Project Proposal]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
 ####  <a name="FinalProject"></a>Final Project
