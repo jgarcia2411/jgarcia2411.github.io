@@ -4,21 +4,22 @@ title: About
 description: Jose Garcia is...
 ---
 
-#### <a name="currentposition"></a>current position
-- I am currently a graduate student in Master of Science in Data Analytics at The George Wasington University.
+#### <a name="Currentposition"></a>Current position
+- Currently, I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
 
 
-#### <a name="previousposition"></a>previous positions
+
+#### <a name="Previousposition"></a>Previous positions
 - My previous experiences include working as a Reserovir Engineer in an state oil and gas company in Ecuador where I was part of the Reservoir Management Team. I worked analyzing production forecasts, production reports, and reservoir production optimization.
 
 
-#### <a name="researchbackground"></a>research background
-- I do not have any research background. 
+#### <a name="Interests"></a>Interests
+- I am passionate about innvotaion, art, and sports. I am interested in data driven solutions to innovate the energy sector, re-design our economy and have a healthy life. 
 
 
-#### <a name="education"></a>ecucation
--Obtained my Bachelors of Science in Petroleum Engineering from Escuela Politecnica Nacional. 
--Currently working towards my Masters of Science in Data Analytics
+#### <a name="Education"></a>Education
+- I obtained my B.S in Petroleum Engineering from Escuela Politecnica Nacional in 2017. 
+- I will obtain a M.S degree in Data Analytics from The George Washington University.
 
 
 #### <a name="cvandresume"></a>cv and resume
