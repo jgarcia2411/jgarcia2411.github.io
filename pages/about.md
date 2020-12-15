@@ -10,7 +10,7 @@ description: Jose Garcia is...
 
 
 #### <a name="Previousposition"></a>Previous positions
-- My previous experiences include working as a Reserovir Engineer in an state oil and gas company in Ecuador where I was part of the Reservoir Management Team. I worked analyzing production forecasts, production reports, and reservoir production optimization.
+- I worked in Reserovir Engineer position for an state oil and gas company in Ecuador. I was part of the Reservoir Management Team, and my duties were analyzing and building oil production forecasts, optimizing oil production, and evaluating reservoirs.
 
 
 #### <a name="Interests"></a>Interests
