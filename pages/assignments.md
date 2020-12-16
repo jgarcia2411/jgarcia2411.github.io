@@ -43,7 +43,7 @@ description: Course Assignments
 
 ####  <a name="FinalProject"></a>Final Project
 
-* [FinalProject]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+* [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
 
 
 
