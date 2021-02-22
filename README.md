@@ -1,6 +1,6 @@
 
 
-See [kbroman.org](http://kbroman.org).
+
 
 ---
 
