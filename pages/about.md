@@ -4,6 +4,10 @@ title: About
 description: Jose Garcia is...
 ---
 
+<a href="pages/publpics/iplotCorr.html">
+        <img src="assets/pics/Energy_forecast.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+    
 #### <a name="Currentposition"></a>Current position
 - Currently, I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
 
