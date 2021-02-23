@@ -4,8 +4,7 @@ title: About
 description: Jose Garcia is...
 ---
 
-<a href="pages/publpics/iplotCorr.html">
-        <img src="assets/pics/Energy_forecast.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+<a ><img src="assets/pics/Energy_forecast.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
     
 #### <a name="Currentposition"></a>Current position
