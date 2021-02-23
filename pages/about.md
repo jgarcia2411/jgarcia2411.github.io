@@ -4,25 +4,27 @@ title: About
 description: Jose Garcia is...
 ---
 
-<center><img src="/assets/pics/IMG_1793.JPG" alt="Jose" style="width:550px;height:400px;"></center>
+<center><img src="/assets/pics/IMG_1793.JPG" alt="Jose" style="width:450px;height:300px;"></center>
 
     
 #### <a name="Currentposition"></a>Current position
-- Currently, I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
 
-
+- I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
 
 #### <a name="Previousposition"></a>Previous positions
-- I worked in Reserovir Engineer position for an state oil and gas company in Ecuador. I was part of the Reservoir Management Team, and my duties were analyzing and building oil production forecasts, optimizing oil production, and evaluating reservoirs.
 
+- I worked as a Reserovir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves by analyzing production trends, geological and reservoir computer models, and oil well configuration design parameters.
 
 #### <a name="Interests"></a>Interests
-- I am passionate about innvotaion, art, and sports. I am interested in data driven solutions to innovate the energy sector, re-design our economy and have a healthy life. 
+
+- I am interested to merge A.I within the engineering field and to apply data-driven technology to contribute in the next energy transition future. Furthermore, I am passionate about innovation, art and sports.
+
 
 
 #### <a name="Education"></a>Education
-- I obtained my B.S in Petroleum Engineering from Escuela Politecnica Nacional in 2017. 
+
 - I will obtain a M.S degree in Data Analytics from The George Washington University.
+- I obtained my B.S in Petroleum Engineering from Escuela Politecnica Nacional in 2017. 
 
 
 #### <a name="cvandresume"></a>cv and resume
