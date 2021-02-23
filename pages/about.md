@@ -23,7 +23,7 @@ description: Jose Garcia is...
 
 #### <a name="Education"></a>Education
 
-- I will obtain a M.S degree in Data Analytics from The George Washington University.
+- I will obtain a M.S degree in Data Analytics from The George Washington University in 2022.
 - I obtained my B.S in Petroleum Engineering from Escuela Politecnica Nacional in 2017. 
 
 
