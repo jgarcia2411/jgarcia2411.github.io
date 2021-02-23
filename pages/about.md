@@ -27,7 +27,7 @@ description: Jose Garcia is...
 - I obtained my B.S in Petroleum Engineering from Escuela Politecnica Nacional in 2017. 
 
 
-#### <a name="cvandresume"></a>cv and resume
+#### <a name="cvandresume"></a>Resume
 [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jose Garcia.pdf)
 
 ---
