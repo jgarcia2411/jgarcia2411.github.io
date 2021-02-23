@@ -4,7 +4,8 @@ title: About
 description: Jose Garcia is...
 ---
 
-<img src="assets/pics/Energy_forecast.png"/>
+<center><img src="/assets/pics/Energy_forecast.png" alt="Jose" style="width:550px;height:400px;"></center>
+
     
 #### <a name="Currentposition"></a>Current position
 - Currently, I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
