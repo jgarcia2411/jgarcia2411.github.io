@@ -13,7 +13,7 @@ description: Jose Garcia is...
 
 #### <a name="Previousposition"></a>Previous positions
 
-- I worked as a Reserovir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves by analyzing production trends, geological and reservoir computer models, and oil well configuration design parameters.
+- I worked as a Reserovir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves by analyzing production trends, geological and reservoir computational simulations, and oil well configuration design parameters.
 
 #### <a name="Interests"></a>Interests
 
