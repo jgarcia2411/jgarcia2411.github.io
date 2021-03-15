@@ -13,11 +13,11 @@ description: Jose Garcia is...
 
 #### <a name="Previousposition"></a>Previous positions
 
-- I worked as a Reserovir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves by analyzing production trends, geological and reservoir computational simulations, and oil well configuration design parameters.
+- I worked as a Reservoir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves, analyzed production trends, used geological and reservoir computational simulations to understand production problems, and supported chief executives in the decision-making process.  
 
 #### <a name="Interests"></a>Interests
 
-- I am interested to merge A.I within the engineering field and to apply data-driven technology to contribute in the next energy transition future. Furthermore, I am passionate about innovation, art and sports.
+- I am passionate and optimistic about the energy transition to renewable energies. My mission is to merge my A.I skills to my engineering background, so I can contribute with data-driven solutions to solve some of the most challenging problems in the world, climate change. 
 
 
 
@@ -28,7 +28,7 @@ description: Jose Garcia is...
 
 
 #### <a name="cvandresume"></a>Resume
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jose Garcia.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jose Garcia Resume.pdf)
 
 ---
 
