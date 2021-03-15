@@ -62,12 +62,12 @@ Go through a set of notebooks for the Databricks courses “Machine Learning Dep
 ##### Description
 Go through a set of notebooks for the Databricks course "Machine Learning with Apache Spark". The labs and capstone notebook are below.
 
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Data Exploration</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Linear Regression-I</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Linear Regression-II</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Spark</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Hyperopt</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Model Inference with Pandas UDFs</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 01L - Data Exploration Lab.html">Data Exploration</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 02L - Linear Regression I Lab.html">Linear Regression-I</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 03L - Linear Regression II Lab.html">Linear Regression-II</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 07L - Hyperparameter Tuning Lab.html">Hyperparameter Tuning with Spark</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 08L - Hyperopt Lab.html">Hyperparameter Tuning with Hyperopt</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 12L - Pandas UDF Lab.html">Model Inference with Pandas UDFs</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Machine Learning with Apache Spark Capstone</a>
 
 
