@@ -27,7 +27,22 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
     </div>
 </div>
 
+####  <a name="FinalProject"></a>Final Project
+
+* [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
+
+
 ####  <a name="Assignment1"></a>Assignment1
+##### Description
+Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DFRW 8 - Lab.html">Reading Data</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Transformations And Actions.html">Transform Data</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 1 Lab.html">Intro to Data Frames- Part 1</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 2 Lab.html">Intro to Data Frames- Part 2</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 3 Lab.html">Intro to Data Frames- Part 3</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 4 Lab.html">Intro to Data Frames- Part 4</a>
+
+####  <a name="Assignment2"></a>Assignment2
 ##### Description
 Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DFRW 8 - Lab.html">Reading Data</a>
@@ -39,30 +54,24 @@ Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("
 
 
 
-##### <a name="Machine Learning Deployment in Databricks"></a>Machine Learning Deployment in Databricks
-* [Assignment 1]({{ BASE_PATH }}/assets/ML2-Capstone-Project.dbc)
 
-
-
-####  <a name="Assignment2"></a>Assignment2
+####  <a name="Assignment3"></a>Assignment3
 ##### <a name="ML with Spark and Scalable NLP"></a>ML with Spark and Scalable NLP
 * [Assignment 2]({{ BASE_PATH }}/assets/NLP 05 - Classification.dbc)
 
 
 
-####  <a name="Assignment3"></a>Assignment3
+####  <a name="Assignment4"></a>Assignment4
 ##### <a name="Machine Learning and MLFlow Databricks"></a>Machine Learning and MLFlow Databricks 
 * [Assignment 3]({{ BASE_PATH }}/assets/ML 14 - Capstone Project.dbc)
 
 
-####  <a name="Assignment4"></a>Assignment4
+####  <a name="Assignment5"></a>Assignment5
 ##### <a name=" Deep Learning"></a>Deep Learning
 * [Assignment 4]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
-####  <a name="FinalProject"></a>Final Project
 
-* [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
 
 ---
 ---
