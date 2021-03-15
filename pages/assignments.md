@@ -44,11 +44,20 @@ Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("
 
 ####  <a name="Assignment2"></a>Assignment2
 ##### Description
-Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
+Go through a set of notebooks for the Databricks courses “Machine Learning Deployment” and “Distributed Natural Language Processing”. Below are the links to the lab notebooks and the capstone notebook (for the “Machine Learning Deployment” course only).
+
+##### Machine Learning Deployment
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Cosmos vs Parquet</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/04-Lab.html">Data Stream</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/06-Lab.html">Data Drift Monitoring and Detection</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
+
+##### Distributed Natural Language Processing
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Cosmos vs Parquet</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/04-Lab.html">Data Stream</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/06-Lab.html">Data Drift Monitoring and Detection</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
+
 
 
 ####  <a name="Assignment3"></a>Assignment3
