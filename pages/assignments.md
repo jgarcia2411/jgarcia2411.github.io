@@ -53,25 +53,35 @@ Go through a set of notebooks for the Databricks courses “Machine Learning Dep
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
 
 ##### Distributed Natural Language Processing
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 02L - Sentiment Analysis Lab.html">Cosmos vs Parquet</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 03L - Sentiment Analysis Lab.html">Data Stream</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 04L - Visualizing Vector Arithmetic Lab.html">Data Drift Monitoring and Detection</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 02L - Sentiment Analysis Lab.html">N-Grams</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 03L - Sentiment Analysis Lab.html">Sentiment Analysis</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 04L - Visualizing Vector Arithmetic Lab.html">Visualizing Vector Arithmetic</a>
 
 
 ####  <a name="Assignment3"></a>Assignment3
-##### <a name="ML with Spark and Scalable NLP"></a>ML with Spark and Scalable NLP
-* [Assignment 2]({{ BASE_PATH }}/assets/NLP 05 - Classification.dbc)
+##### Description
+Go through a set of notebooks for the Databricks course "Machine Learning with Apache Spark". The labs and capstone notebook are below.
 
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Data Exploration</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Linear Regression-I</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Linear Regression-II</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Spark</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Hyperopt</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Model Inference with Pandas UDFs</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Machine Learning with Apache Spark Capstone</a>
 
 
 ####  <a name="Assignment4"></a>Assignment4
-##### <a name="Machine Learning and MLFlow Databricks"></a>Machine Learning and MLFlow Databricks 
-* [Assignment 3]({{ BASE_PATH }}/assets/ML 14 - Capstone Project.dbc)
+##### Assignment Description
+Go through a set of notebooks for the Databricks course "Hands-on Deep Learning with Keras, TensorFlow, and Apache Spark" as well as the course "Introduction to Reinforcement Learning". The links below are for the labs for the deep learning course.
 
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Keras</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Advanced Keras</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">MLflow</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Hyperopt</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">LIME for CNNs</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Transfer Learning</a>
 
-####  <a name="Assignment5"></a>Assignment5
-##### <a name=" Deep Learning"></a>Deep Learning
-* [Assignment 4]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
 
