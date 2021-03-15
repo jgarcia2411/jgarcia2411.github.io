@@ -68,7 +68,7 @@ Go through a set of notebooks for the Databricks course "Machine Learning with A
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 07L - Hyperparameter Tuning Lab.html">Hyperparameter Tuning with Spark</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 08L - Hyperopt Lab.html">Hyperparameter Tuning with Hyperopt</a>
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 12L - Pandas UDF Lab.html">Model Inference with Pandas UDFs</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Machine Learning with Apache Spark Capstone</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/ML 14 - Capstone Project.html">Machine Learning with Apache Spark Capstone</a>
 
 
 ####  <a name="Assignment4"></a>Assignment4
