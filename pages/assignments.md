@@ -1,6 +1,6 @@
 ---
 layout: page
-title: labs & assignments
+title: Labs & Assignments
 description: Course Assignments
 ---
 
@@ -18,7 +18,7 @@ description: Course Assignments
 </div>
 
 
-### SEAS 6401 Assignments
+### SEAS 6401: Data Analytics Foundation and Practicum
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="Machine Learning Deployment in Databricks"></a>Machine Learning Deployment in Databricks
 * [Assignment 1]({{ BASE_PATH }}/assets/ML2-Capstone-Project.dbc)
