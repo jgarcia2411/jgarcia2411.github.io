@@ -17,7 +17,14 @@ description: Course Assignments
     </div>
 </div>
 
-
+---
+---
+## <a name="GWU"></a> The George Washington University Classes
+---
+---
+### <a name="seas6401"></a> SEAS 6401 - Data Analytics Foundations & Practicum
+---
+---
 ### SEAS 6401: Data Analytics Foundation and Practicum
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="Machine Learning Deployment in Databricks"></a>Machine Learning Deployment in Databricks
