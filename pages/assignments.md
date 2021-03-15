@@ -30,7 +30,12 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
 ####  <a name="Assignment1"></a>Assignment1
 ##### Description
 Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
-* <a href="{{ BASE_PATH }}/assets/DFRW 8 - Lab.html">Reading Data</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DFRW 8 - Lab.html">Reading Data</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Transformations And Actions.html">Transform Data</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 1 Lab.html">Intro to Data Frames- Part 1</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 2 Lab.html">Intro to Data Frames- Part 2</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 3 Lab.html">Intro to Data Frames- Part 3</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 4 Lab.html">Intro to Data Frames- Part 4</a>
 
 
 
