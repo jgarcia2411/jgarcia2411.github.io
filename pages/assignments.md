@@ -30,7 +30,7 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
 ####  <a name="Assignment1"></a>Assignment1
 ##### Description
 Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
-* <a href="{{ BASE_PATH }}/assets/ML2-Capstone-Project.dbc">Reading Data</a>
+* <a href="{{ BASE_PATH }}/assets/DFRW 8 - Lab.html">Reading Data</a>
 
 
 
