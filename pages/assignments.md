@@ -45,14 +45,10 @@ Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("
 ####  <a name="Assignment2"></a>Assignment2
 ##### Description
 Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs.
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DFRW 8 - Lab.html">Reading Data</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Transformations And Actions.html">Transform Data</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 1 Lab.html">Intro to Data Frames- Part 1</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 2 Lab.html">Intro to Data Frames- Part 2</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 3 Lab.html">Intro to Data Frames- Part 3</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/Intro To DF Part 4 Lab.html">Intro to Data Frames- Part 4</a>
-
-
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Cosmos vs Parquet</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/04-Lab.html">Data Stream</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/06-Lab.html">Data Drift Monitoring and Detection</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
 
 
 ####  <a name="Assignment3"></a>Assignment3
