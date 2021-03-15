@@ -96,5 +96,4 @@ For this class project, we are trying to create two models to predict the type o
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
-* [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
 
