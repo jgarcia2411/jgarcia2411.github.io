@@ -8,9 +8,9 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Jose Garcia.pdf">Resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Jose Garcia Resume.pdf">Resume</a></li>
           <li><a href="https://github.com/jgarcia2411">Github</a></li>
-          <li><a href="https://www.linkedin.com/in/jose-garcía-477435140/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/jlgarciajose">LinkedIn</a></li>
       </ul>
   </div>
 </div>
