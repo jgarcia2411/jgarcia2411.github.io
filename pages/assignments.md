@@ -75,15 +75,11 @@ Go through a set of notebooks for the Databricks course "Machine Learning with A
 ##### Assignment Description
 Go through a set of notebooks for the Databricks course "Hands-on Deep Learning with Keras, TensorFlow, and Apache Spark" as well as the course "Introduction to Reinforcement Learning". The links below are for the labs for the deep learning course.
 
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Keras</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Advanced Keras</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">MLflow</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Hyperparameter Tuning with Hyperopt</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">LIME for CNNs</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Transfer Learning</a>
-
-
-
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DL 02L - Keras Lab.html">Keras</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DL 03L - Advanced Keras Lab.html">Advanced Keras</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DL 04L - MLflow Lab.html">MLflow</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DL 05L - Hyperopt Lab.html">LIME for CNNs</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/DL 08L - Lime for CNNs Lab.html">Transfer Learning</a>
 
 
 ---
