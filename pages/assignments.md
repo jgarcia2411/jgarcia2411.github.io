@@ -53,11 +53,9 @@ Go through a set of notebooks for the Databricks courses “Machine Learning Dep
 * <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
 
 ##### Distributed Natural Language Processing
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/03-Lab.html">Cosmos vs Parquet</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/04-Lab.html">Data Stream</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/06-Lab.html">Data Drift Monitoring and Detection</a>
-* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/08-Capstone-Project.html">Capstone project: Production deployment</a>
-
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 02L - Sentiment Analysis Lab.html">Cosmos vs Parquet</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 03L - Sentiment Analysis Lab.html">Data Stream</a>
+* <a href="{{ BASE_PATH }}/assets/DatabricksLabs/NLP 04L - Visualizing Vector Arithmetic Lab.html">Data Drift Monitoring and Detection</a>
 
 
 ####  <a name="Assignment3"></a>Assignment3
