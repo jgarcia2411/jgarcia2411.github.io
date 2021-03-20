@@ -7,18 +7,40 @@ description: My Course List
 ---
 ### Current courses
 ---
-#### Applied Machine Learning (SEAS 6401; Fall, 2020)
-- [Site](https://jgarcia2411.github.io/)
-- [My Portfolio](https://jgarcia2411.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
 
-#### [Programming for Data Analytics](http://jgarcia2411.github.io) (EMSE6574; Fall, 2020)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
+#### Applied Machine Learning (EMSE 6575; Spring, 2021)
+- Instructor: Professor Maksim Tsvetovat
+### - Learning outcomes: 
+    -  Select the data analysis algorithms that are most appropriate to solve specific problems
+    -  Apply libraries implementing these algorithms to real world data  
+    -  Experience the use of these algorithms on test data sources
+    -  Evaluate the quality of an algorithm’s output when applied to test data
+    -  Understand the basic principles underlying these algorithms, and the conditions under which they may not apply
+
+
+#### Database Management Systems for Analytics (EMSE 6586; Spring, 2021)
+- Instructor: Professor Joel Klein
+### - Learning outcomes: 
+    -  Select the data analysis algorithms that are most appropriate to solve specific problems
+    -  Apply libraries implementing these algorithms to real world data  
+    -  Experience the use of these algorithms on test data sources
+    -  Evaluate the quality of an algorithm’s output when applied to test data
+    -  Understand the basic principles underlying these algorithms, and the conditions under which they may not apply
+
+
+#### Data Analysis for Scientists and Engineers (EMSE 6765; Spring, 2021)
+- Instructor: Professor J. René van Dorp
+### - Learning outcomes: 
+    - Perform univariate statistical inference techniques involving confidence intervals, hypothesis test, distribution fitting and goodness-of-fit testing. Students will learn to perform these inference techniques in MS EXCEL.
+    - Perform multivariate statistical inference techniques involving estimation of the sample mean vector, the sample variance covariance matrix and use these to perform the Hotelling T2 hypothesis test on a single multivariate sample and two multivariate samples. Students will learn to perform these inference techniques in MS EXCEL.
+    - Perform regression analysis involving multiple explanatory variables using matrix algebra in MS EXCEL. Student will learn to perform and interpret regression analysis results using the software MINITAB
+    - Perform One-Way and Two-Way ANOVA using the software MINITAB.
+
 
 
 ---
-
 ### Former courses
+---
 
 #### Data Analytics Introduction and Practicum (SEAS 6401; Fall, 2020)
 - Instructur: Benjamin S. Harvey, Ph.D.
@@ -41,4 +63,29 @@ description: My Course List
     - Skills and knowledge in preparing data for analysis, including cleaning data, manipulating data, and dealing with missing data
     - Skills in analyzing open source “Big Data” sets using open source data analysis tools
     - Skills in scripting for data manipulation, analysis, and visualization using R, Python, and a variety of add on packages.
+
+#### Programming for Analytics (EMSE 6574; Fall, 2020)
+- Instructur: Professor Maksim Tsvetovat
+### - Learning outcomes: 
+    - Design and implement Python programs for challenging problems involving real data sources.
+    - Learn computational problem solving, in the context of data analytics applications and learn about algorithm and data complexity.
+    - Learn basic data structures (lists and dictionaries)
+    - Experience object oriented programming 
+    - Experience program testing and debugging in Python.
+    - Understand and use various libraries for data manipulation, scientific computing and Visualization (including, but not limited to – NumPy, pandas, Matplotlib).
+    - Learn how to take a data source and create visual and statistical insights
+    - Learn how to work with APIs, obtain and process data
+    - Learn how to work with structured data formats (CSV, JSON and others)
+    - Use and process real datasets from social networks, such as Twitter, Facebook and more.
+ 
+#### A Systems Engineering Perspective on Pandemics and COVID-19 (SEAS 6992; Fall, 2020)
+- Instructur: Professor Erica Gralla.
+### - Learning outcomes: 
+    - Describe an array of tools/approaches that can be used to analyze the spread of disease and its economic and societal impact, assess the impact of potential interventions, and support policy and operational decisions. 
+    - Explain how systems engineering tools and approaches can inform decision making and policy and describe their limitations.
+    - Synthesize information from models and data to recommend policies and operational decisions, and present and discuss these recommendations effectively.
+
+
+
+
 
