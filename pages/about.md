@@ -4,8 +4,8 @@ title: About me
 description: Jose Garcia is...
 ---
 
-<left><img src="/assets/pics/IMG_1793.JPG" alt="Jose" style="width:450px;height:600px;"></left>
-<right><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:600px;height:450px;"></right>
+<center><img src="/assets/pics/IMG_1793.JPG" alt="Jose" style="width:450px;height:600px;"></center>
+<center><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:600px;height:450px;"></center>
 
     
 #### <a name="Currentposition"></a>Current position
