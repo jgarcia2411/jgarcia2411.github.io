@@ -21,12 +21,12 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/about.html">
-        <img src="assets/pics/jose_Fotor.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/pics/jose_Fotor.jpg" alt="R/qtlcharts example" style="width:450px;height:450px;" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
     <a>
-        Welcome to my page
+        Welcome to my page. Here you will find about my portfolio of projects that I am currently working to obtain my masters degree in Data Analytics at George Washington University. 
     </a>
   </td>
 </tr>
