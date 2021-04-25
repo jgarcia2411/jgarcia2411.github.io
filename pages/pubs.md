@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Side projects
-description: Jose's side projects
+title: Portfolio
+description: Jose's projects
 ---
 
 ---
