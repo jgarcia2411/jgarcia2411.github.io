@@ -16,18 +16,8 @@ keywords: statistics, data analytics
 </div>
 
 ### <a name="Jose's page"></a>Jose's page
+<center><img src="/assets/pics/jose_Fotor.jpg" alt="Jose" style="width:200px;height:100px;"></center>
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="pages/about.html">
-        <img src="assets/pics/jose_Fotor.jpg" alt="R/qtlcharts example" style="width:450px;height:450px;" title="R/qtlcharts example"/>
-    </a>
-  </td>
-  <td class="right">
-    <a>
-        Welcome to my page. Here you will find about my portfolio of projects that I am currently working to obtain my masters degree in Data Analytics at George Washington University. 
-    </a>
-  </td>
-</tr>
-</table>
+<a>
+Welcome to my page! Here you will find information about my school projects that I am currently working to obtain a Master of Science in Data Analytics at George Washington University.
+</a>
