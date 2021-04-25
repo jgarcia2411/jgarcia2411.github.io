@@ -20,26 +20,14 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/pics/Energy_forecast.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/about.html">
+        <img src="assets/pics/GPTempDownload.JPG" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/pics/SolarPowervsTime.png" alt="Tian et
+    <a>
+        <img src="assets/pics/IMG_1793.JPG" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/pics/WordCloudSpam.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
