@@ -4,22 +4,14 @@ title: About me
 description: Jose Garcia is...
 ---
 
-<center><img src="/assets/pics/IMG_1793.JPG" alt="Jose" style="width:450px;height:600px;"></center>
 <center><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:600px;height:450px;"></center>
 
     
-#### <a name="Currentposition"></a>Current position
+#### <a name="About me"></a>About me
 
-- I am a graduate student at The George Washington University. My program is in Data Analaytics and my concentration in Engineering Management and Systems Engineering.
+That is me when I climbed Cotopaxi volcano in my home country Ecuador, and that's where my journey starts. 
 
-#### <a name="Previousposition"></a>Previous positions
-
-- I worked as a Reservoir Engineer for an oil company in Ecuador. I calculated and forecasted oil reserves, analyzed production trends, used geological and reservoir computational simulations to understand production problems, and supported chief executives in the decision-making process.  
-
-#### <a name="Interests"></a>Interests
-
-- I am passionate and optimistic about the energy transition to renewable energies. My mission is to merge my A.I skills to my engineering background, so I can contribute with data-driven solutions to solve some of the most challenging problems in the world, climate change. 
-
+I came to the U.S. to start graduate school in Data Analytics Master of Science program at George Washington University (GWU). This is my first year of the program, and I have enjoyed to learn about big data, statistics and machine learning. I am interested to apply my engineering + data analytics skills in the fields of sustainable energy and the environment, and contribute to solve one the most challenging problems in the world, climate change.
 
 
 #### <a name="Education"></a>Education
