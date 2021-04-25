@@ -15,19 +15,18 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Jose's page"></a>Jose's page
 
 <table class="wide">
 <tr>
   <td class="left">
     <a href="pages/about.html">
-        <img src="assets/pics/GPTempDownload.JPG" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/pics/jose_Fotor.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
     <a>
-        <img src="assets/pics/IMG_1793.JPG" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        Welcome to my page
     </a>
   </td>
 </tr>
