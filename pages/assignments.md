@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Labs & Assignments
+title: 
 description: Course Assignments
 ---
 
 ---
 ---
-## <a name="GWU"></a> The George Washington University Classes
+## <a name="GWU"></a> GWU COURSES
 ---
 ---
 ### <a name="seas6401"></a> SEAS 6401 - Data Analytics Foundations & Practicum
