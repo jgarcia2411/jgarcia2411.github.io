@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Home
-description: Jose Garcia
+title: Jose Garcia
+description: Home
 keywords: statistics, data analytics
 ---
 
