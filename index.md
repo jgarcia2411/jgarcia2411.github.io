@@ -16,7 +16,7 @@ keywords: statistics, data analytics
 </div>
 
 ### <a name="Jose's page"></a>Jose's page
-<center><img src="/assets/pics/jose_Fotor.jpg" alt="Jose" style="width:350px;height:400px;"></center>
+<center><img src="/assets/pics/jose_Fotor.jpg" alt="Jose" style="width:450px;height:400px;"></center>
 
 <a>
 Welcome to my page! Here you will find information about my school projects that I am currently working to obtain a Master of Science in Data Analytics at George Washington University.
