@@ -4,11 +4,6 @@ title: Portfolio
 description: Jose's projects
 ---
 
----
----
-### <a name="Projects"></a> 
----
----
 
 ##### Smart-home Energy Demand Forecast -Applied Machine Learning
 ..Currently Working 
