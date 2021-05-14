@@ -5,7 +5,7 @@ description: Jose's projects
 ---
 
 
-### Smart-home Energy Demand Forecast -Applied Machine Learning
+### Neural Networks and Genetic Algorithm to forecast energy demand
 
 Keras - LSTM and Genetic Algorithms for hyper-parameters optimization
 <center><img src="/assets/pics/Forecast.png" alt="Jose" style="width:500px;height:300px;"></center>
@@ -16,7 +16,7 @@ We implemented Keras - LSTM recurrent neural network to forecast the energy coms
 
 * [FinalProject](https://kamranarshad333.medium.com/predicting-energy-demand-from-consumption-data-25a59c728906)
 
-### Solar Energy Forecast - Data Analytics Foundations & Practicum
+### Machine Learning using a distributed computing framework on Apache Spark
 
 <center><img src="/assets/pics/SolarPowervsTime.png" alt="Jose" style="width:500px;height:300px;"></center>
 
@@ -25,7 +25,7 @@ Forecasting solar energy is an important task to manage solar power systems, ens
 * <a href="{{ BASE_PATH }}/assets/Databrickscapstone/SOLAR_FINAL-2.html">Project Notebook</a>
 * <a href="{{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf">Paper Draft</a>
 ---
-### MySQL Database using Zomato dataset:
+### SQL-Database in MySQL
 
 <center><img src="/assets/pics/SchemaDB.png" alt="Jose" style="width:500px;height:300px;"></center>
 
@@ -34,7 +34,7 @@ The goal of this project is to restructure a flattened dataset, and load into a 
 * [Project Repository] (https://github.com/GWU-DBMS-For-Analytics/Garcia_Ngau_Zomato_SQL)
 
 
-### Cuisine type and calories prediction - Programming for Analytics class
+### Natural Language Processing to classify cuisine type and predict calories
 
 <center><img src="/assets/pics/WordCloudSpam.png" alt="Jose" style="width:500px;height:300px;"></center>
 
