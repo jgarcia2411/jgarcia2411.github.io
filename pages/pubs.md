@@ -25,7 +25,12 @@ Forecasting solar energy is an important task to manage solar power systems, ens
 * [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
 ---
 ### MySQL Database using Zomato dataset:
+
+<center><img src="/assets/pics/SchemaDB.png" alt="Jose" style="width:500px;height:300px;"></center>
+
 The goal of this project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information.
+
+* [Project Repository] (https://github.com/GWU-DBMS-For-Analytics/Garcia_Ngau_Zomato_SQL)
 
 
 ### Cuisine type and calories prediction - Programming for Analytics class
