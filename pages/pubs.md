@@ -5,7 +5,7 @@ description: Jose's projects
 ---
 
 
-##### Smart-home Energy Demand Forecast -Applied Machine Learning
+### Smart-home Energy Demand Forecast -Applied Machine Learning
 Keras - LSTM and Genetic Algorithms for hyper-parameters optimization
 
 This work is part of a project for our applied machine learning class. We decided to work on this model because matching electrical energy consumption with the right supply level is crucial because excess electricity supplied cannot be stored unless converted to other forms, which incurs additional costs and resources. At the same time, underestimating energy consumption could be fatal, with excess demand overloading the supply line and even causing blackouts. A model like this can help the consumers better understand how their energy will be consumed in their homes or offices.
@@ -14,7 +14,7 @@ We implemented Keras - LSTM recurrent neural network to forecast the energy coms
 
 * [FinalProject](https://kamranarshad333.medium.com/predicting-energy-demand-from-consumption-data-25a59c728906)
 
-##### Solar Energy Forecast - Data Analytics Foundations & Practicum
+### Solar Energy Forecast - Data Analytics Foundations & Practicum
 
 <center><img src="/assets/pics/SolarPowervsTime.png" alt="Jose" style="width:500px;height:300px;"></center>
 
@@ -23,7 +23,7 @@ Forecasting solar energy is an important task to manage solar power systems, ens
 * [FinalProject]({{ BASE_PATH }}/assets/SOLAR PROJECT PAPER Jose Garcia.pdf)
 ---
 
-##### Cuisine type and calories prediction - Programming for Analytics class
+### Cuisine type and calories prediction - Programming for Analytics class
 
 <center><img src="/assets/pics/WordCloudSpam.png" alt="Jose" style="width:500px;height:300px;"></center>
 
