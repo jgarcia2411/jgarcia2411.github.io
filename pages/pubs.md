@@ -12,6 +12,7 @@ This work is part of a project for our applied machine learning class. We decide
 
 We implemented Keras - LSTM recurrent neural network to forecast the energy comsumption of a smart home, based on weather parameters. We used this data set from Kaggle (https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information). This medium article (https://kamranarshad333.medium.com/predicting-energy-demand-from-consumption-data-25a59c728906) shows our results and you can find the code in this repository.
 
+* [FinalProject](https://kamranarshad333.medium.com/predicting-energy-demand-from-consumption-data-25a59c728906)
 
 ##### Solar Energy Forecast - Data Analytics Foundations & Practicum
 
