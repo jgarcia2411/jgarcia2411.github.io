@@ -9,9 +9,9 @@ description: Jose Garcia is...
     
 #### <a name="About me"></a>About me
 
-That is me when I climbed Cotopaxi volcano in my home country Ecuador, and that's where my journey starts. 
+This is me when I climbed Cotopaxi volcano in my home country Ecuador, and where my journey started. 
 
-I came to the U.S. to start graduate school in Data Analytics Master of Science program at George Washington University (GWU). This is my first year of the program, and I have enjoyed to learn about big data, statistics and machine learning. I am interested to apply my engineering + data analytics skills in the fields of sustainable energy and the environment, and contribute to solve one the most challenging problems in the world, climate change.
+I came to the U.S. to start graduate school in Data Analytics Master of Science program at George Washington University (GWU). This is my first year of the program, and I have enjoyed to learn about big data, statistics and machine learning. I am interested to apply my skills in the fields of sustainable energy and the environment, and contribute to solve one the most challenging problems in the world, climate change.
 
 
 #### <a name="Education"></a>Education
