@@ -19,5 +19,5 @@ keywords: statistics, data analytics
 <center><img src="/assets/pics/perfil.jpg" alt="Jose" style="width:450px;height:650px;"></center>
 
 <a>
-Welcome to my page! Here you will find information about my school projects that I am currently working to obtain a Master of Science in Data Analytics at George Washington University.
+Welcome to my portfolio of projects page! Here you will alos find information about my journey as a graduate student in Data Analytics at George Washington University.
 </a>
