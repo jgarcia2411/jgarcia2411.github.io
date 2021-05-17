@@ -16,7 +16,7 @@ keywords: statistics, data analytics
 </div>
 
 ### <a name="Jose's page"></a>Jose's page
-<center><img src="/assets/pics/perfil.jpg" alt="Jose" style="width:450px;height:650px;"></center>
+<center><img src="/assets/pics/perfil.jpg" alt="Jose" style="width:550px;height:650px;"></center>
 
 <a>
 Welcome to my <a href="https://jgarcia2411.github.io/pages/pubs.html">Porfolio of projects</a> page! Here you will alos find information about my journey as a graduate student in Data Analytics at George Washington University.
