@@ -4,7 +4,7 @@ title: About me
 description: Jose Garcia is...
 ---
 
-<center><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:600px;height:450px;"></center>
+<center><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:700px;height:450px;"></center>
 
     
 #### <a name="About me"></a>About me
