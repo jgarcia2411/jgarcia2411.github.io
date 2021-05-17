@@ -19,5 +19,5 @@ keywords: statistics, data analytics
 <center><img src="/assets/pics/perfil.jpg" alt="Jose" style="width:450px;height:650px;"></center>
 
 <a>
-Welcome to my portfolio of projects page! Here you will alos find information about my journey as a graduate student in Data Analytics at George Washington University.
+Welcome to my <a href="https://jgarcia2411.github.io/pages/pubs.html">Porfolio of projects</a> page! Here you will alos find information about my journey as a graduate student in Data Analytics at George Washington University.
 </a>
