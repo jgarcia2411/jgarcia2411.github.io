@@ -7,7 +7,7 @@ description: Jose Garcia is...
 <center><img src="/assets/pics/GPTempDownload.JPG" alt="Jose" style="width:700px;height:450px;"></center>
 
     
-#### <a name="About me"></a>About me
+
 
 This is me when I climbed Cotopaxi volcano in my home country Ecuador, and where my journey started. 
 
